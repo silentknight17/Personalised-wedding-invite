@@ -10,6 +10,7 @@ This project automates the creation of personalized wedding invitation videos (w
 - Allows user to input the comma seperated names of people he/she wants to generate the videos for
 - Generates personalized audio messages using Play.ht.
 - Create videos dynamically with D-ID.
+- Generate the final wedding invitation video with Json2Video.
 - Preview videos within Google Colab and download it for sharing it to friends and relatives.
 
 
@@ -29,6 +30,9 @@ This project automates the creation of personalized wedding invitation videos (w
     For hoisting the input image on cloud/server
 - ### D-ID
     For generating the final personalised video from the audio generated via Play.ht
+- ###Json2Video
+    For generating the final wedding invitation video.
+    
 - ### Google Colab
     Used because of it's preinstalled python libraries, giving access to Google Hardwares, storage in Google Drive and  free access to computing resources, and integration with other tools.Colab notebooks allows us to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more
 - ### Language Used 
@@ -40,9 +44,10 @@ This project automates the creation of personalized wedding invitation videos (w
 
 Link to the videos generated for a groom image generated from GPT -
 
- -  https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/EZbFqxrqTjNDlLHXS6xurXIBvxw47eYyJ8u-5txjmAbPKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c3w7oL
+ -  https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/ERbzOxUsGyNEni4WyGV9qrgBDlX3cnwRjPwJDqbGZHOjFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KW0JQm
 
- - https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/EWJPObSUu-JGq4LO0Y3p1KkBTvVhmcN0I467jk_v1LNFHA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=egBM8M
+ - https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/EX3vBcXwOt1Ht-dke38Wk5kBPy_jWDaBq8aXn5PLsw-ajQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ubc8H8
+
 
 
 
