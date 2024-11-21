@@ -30,7 +30,7 @@ This project automates the creation of personalized wedding invitation videos (w
     For hoisting the input image on cloud/server
 - ### D-ID
     For generating the final personalised video from the audio generated via Play.ht
-- ###Json2Video
+- ### Json2Video
     For generating the final wedding invitation video.
     
 - ### Google Colab
