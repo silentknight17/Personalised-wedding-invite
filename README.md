@@ -42,11 +42,11 @@ This project automates the creation of personalized wedding invitation videos (w
     
 ## Demo
 
-Link to the videos generated for a groom image generated from GPT -
+Link to the videos generated -
 
- -  https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/ERbzOxUsGyNEni4WyGV9qrgBDlX3cnwRjPwJDqbGZHOjFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KW0JQm
-
- - https://infoedge-my.sharepoint.com/:v:/p/sarvagya_prateek/EX3vBcXwOt1Ht-dke38Wk5kBPy_jWDaBq8aXn5PLsw-ajQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ubc8H8
+ -  Final Customised Video Type 1- https://drive.google.com/file/d/1yysU9B2Zyguly9RipstOVc1IMVUbyPN9/view?usp=sharing
+ -  Final Customised Video Type 2 - https://drive.google.com/file/d/1NgSvTOLe2ShH-k3nJtJqFZAm0gaCMYks/view?usp=sharing
+ -  Intermediate Generated Video - https://drive.google.com/file/d/1MbnelReTcV9Yrxyz72w6R0AJ2q2TaHwX/view?usp=sharing
 
 
 
@@ -62,6 +62,4 @@ Link to the videos generated for a groom image generated from GPT -
 
 - Monetise the service as a premium feature in whichever business it is required.
 ## Collaborators
-    TEAM ID - 115
- - Sarvagya Prateek (sarvagya.prateek@jeevansathi.com) [Team Captain]
- - Sandesh Dudhabaware 
+ - Sarvagya Prateek
