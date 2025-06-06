@@ -63,3 +63,6 @@ Link to the videos generated -
 - Monetise the service as a premium feature in whichever business it is required.
 ## Collaborators
  - Sarvagya Prateek
+
+## Note
+The code contains certain keys which are unique for accessing the different features. In the code, the keys used are exposed since they were available for free, but it has to be hidden incase this product is deployed.
