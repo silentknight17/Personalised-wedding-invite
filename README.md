@@ -44,8 +44,7 @@ This project automates the creation of personalized wedding invitation videos (w
 
 Link to the videos generated -
 
- -  Final Customised Video Type 1- https://drive.google.com/file/d/1yysU9B2Zyguly9RipstOVc1IMVUbyPN9/view?usp=sharing
- -  Final Customised Video Type 2 - https://drive.google.com/file/d/1NgSvTOLe2ShH-k3nJtJqFZAm0gaCMYks/view?usp=sharing
+ -  Final Customised Video - Links cannot be shared as it contains influencer images for which permission is required. 
  -  Intermediate Generated Video - https://drive.google.com/file/d/1MbnelReTcV9Yrxyz72w6R0AJ2q2TaHwX/view?usp=sharing
 
 
@@ -65,4 +64,4 @@ Link to the videos generated -
  - Sarvagya Prateek
 
 ## Note
-The code contains certain keys which are unique for accessing the different features. In the code, the keys used are exposed since they were available for free, but it has to be hidden incase this product is deployed.
+1) The code contains certain keys which are unique for accessing the different features. In the code, the keys used are exposed since they were available for free, but it has to be hidden incase this product is deployed.
